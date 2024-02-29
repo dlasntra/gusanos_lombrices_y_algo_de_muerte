@@ -34,6 +34,11 @@ label splashscreen:
     with Pause(2)
     hide text with dissolve
     with Pause(1)
+
+    show text "©2024 — Conejo de la Siniestra. Todos los derechos reservados." with dissolve
+    with Pause(2)
+    hide text with dissolve
+    with Pause(1)
     
     return
 

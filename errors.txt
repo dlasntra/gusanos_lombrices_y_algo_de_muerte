@@ -2,17 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 495: expected statement.
-    "En ese momento Ciatripa y yo nos volteamos hacía Haón."Ese comentario había
-                                                                                ^
-
-File "game/script.rpy", line 496: expected statement.
-    hecho que nos helase la sangre. Antes de que pudiera decir nada, Ciatripa se me
-                                  ^
-
-File "game/script.rpy", line 497: expected statement.
-    adelanto y recriminó a Haón.
-                               ^
+File "game/screens.rpy", line 294: keyword argument 'xalign' is incompatible with 'xpos'.
+    xalign 0.5
+          ^
 
 Ren'Py Version: Ren'Py 8.1.3.23091805
-Wed Nov 29 20:16:21 2023
+Thu Feb 29 12:19:27 2024
