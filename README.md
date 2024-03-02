@@ -19,3 +19,7 @@ Se crea el archivo README para hacer un log de todas las actualizaciones del pro
 ## Quinta Actualización
 
 Se empieza a ensamblar la resolución de la historia.
+
+Se agregan los archivos de audio: bloqueo-puerta.wav y percusion-final.mp3.
+
+Se agregan los archivos de imágenes: x-habitación.png, halo-luz.png y mascara-dayasu.png
