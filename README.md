@@ -15,3 +15,7 @@ Se borran los datos persistentes.
 ## Cuarta Actualización
 
 Se crea el archivo README para hacer un log de todas las actualizaciones del proyeto, dentro de la rama Master.
+
+## Quinta Actualización
+
+Se empieza a ensamblar la resolución de la historia.
