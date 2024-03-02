@@ -654,8 +654,37 @@ label start:
         scene black
         with dissolve
         stop music fadeout 1.0
-        "Plantadas en frente de aquella puerta, Haón giro del pomo." 
+        "Plantadas en frente de aquella puerta, Haón giro el pomo." 
         "Una desagradable sensación recorrió el cuerpo de las dos jóvenes." 
         "La puerta estaba sin ningún seguro y se podía abrir."
+        "Despacio, Haón fue abriendo la puerta."
+        play sound "bloqueo-puerta.wav"
+        "Cuando esta estaba en un cuarto de apertura, violentamente se paro en seco."
+        "Unas cadenas impedían la apertura parcial de aquella puerta."
 
+        scene halo-luz
+        with dissolve
+        "La luz se colaba en la pequeña apertura de la puerta." 
+        "Ciatripa se adelanto a Haón y miro por aquella pequeña raja." 
+        "Ciatripa dio un grito de terror y desesperación, y se cayó del susto provocado por aquella terrorífica imagen."
+
+        # Resolución último caso - Parte Primera.
+        scene bg gore
+        with dissolve
+        play music "percusion-final.mp3" fadein 0.5 loop
+        "El cuerpo de Dayasu estaba tendido en la cama, la sangre se esparcía por la almohada." 
+        "Parecía incluso una muerte dulce, una defunción mientras dormía." 
+        "Más extraño era aquella máscara blanca que cubría su rostro."
+        scene mascara-dayasu
+        with fade 
+        "Blanca como el marfil, con ojos burlescos en forma de media luna y una sonrisa puntiaguda igual que la sonrisa de las máscaras del teatro griego."
+        scene x-habitacion
+        with dissolve 
+        "En el fondo se podía observar una de las dos aspas que conformaban una gran cruz roja." 
+        # Resolución último caso - Parte Segunda.
+        scene black
+        with fade
+        "El susto de Ciatripa le fue bastante a Haón para sobreentender que en aquella habitación había vuelto a haber un asesinato." 
+        "Un homicidio delante de sus narices."
+        "¿Cómo era esto posible?, era la pregunta que se hacia Haón."
     return
